@@ -1,1 +1,1 @@
-# article-20250416
+# Badgefed and the Social Web of Trust: How Badges Could Shape the Fediverse
